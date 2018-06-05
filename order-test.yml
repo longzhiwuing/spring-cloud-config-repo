@@ -13,4 +13,4 @@ PRODUCT-CLIENT:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule
 evn:
-  test
+  test3

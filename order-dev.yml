@@ -12,7 +12,7 @@ spring:
 PRODUCT-CLIENT:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule
-evn:
+env:
   dev
 label:
   release
